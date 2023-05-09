@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/https//filipor123.github.io/foodapp/static/css/main.201fc10f.css",
-    "main.js": "/https//filipor123.github.io/foodapp/static/js/main.41ee012c.js",
+    "main.js": "/https//filipor123.github.io/foodapp/static/js/main.4b4b0a67.js",
     "static/js/787.2758d00e.chunk.js": "/https//filipor123.github.io/foodapp/static/js/787.2758d00e.chunk.js",
     "static/media/mixkit-on-or-off-light-switch-tap-2585.wav": "/https//filipor123.github.io/foodapp/static/media/mixkit-on-or-off-light-switch-tap-2585.1b36d2edfd59606dc2a2.wav",
     "index.html": "/https//filipor123.github.io/foodapp/index.html",
     "main.201fc10f.css.map": "/https//filipor123.github.io/foodapp/static/css/main.201fc10f.css.map",
-    "main.41ee012c.js.map": "/https//filipor123.github.io/foodapp/static/js/main.41ee012c.js.map",
+    "main.4b4b0a67.js.map": "/https//filipor123.github.io/foodapp/static/js/main.4b4b0a67.js.map",
     "787.2758d00e.chunk.js.map": "/https//filipor123.github.io/foodapp/static/js/787.2758d00e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.201fc10f.css",
-    "static/js/main.41ee012c.js"
+    "static/js/main.4b4b0a67.js"
   ]
 }
