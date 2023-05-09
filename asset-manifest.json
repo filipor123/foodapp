@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//filipor123.github.io/foodapp/static/css/main.201fc10f.css",
+    "main.js": "/https//filipor123.github.io/foodapp/static/js/main.736d1dcb.js",
+    "static/js/787.2758d00e.chunk.js": "/https//filipor123.github.io/foodapp/static/js/787.2758d00e.chunk.js",
+    "static/media/mixkit-on-or-off-light-switch-tap-2585.wav": "/https//filipor123.github.io/foodapp/static/media/mixkit-on-or-off-light-switch-tap-2585.1b36d2edfd59606dc2a2.wav",
+    "index.html": "/https//filipor123.github.io/foodapp/index.html",
+    "main.201fc10f.css.map": "/https//filipor123.github.io/foodapp/static/css/main.201fc10f.css.map",
+    "main.736d1dcb.js.map": "/https//filipor123.github.io/foodapp/static/js/main.736d1dcb.js.map",
+    "787.2758d00e.chunk.js.map": "/https//filipor123.github.io/foodapp/static/js/787.2758d00e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201fc10f.css",
+    "static/js/main.736d1dcb.js"
+  ]
+}
